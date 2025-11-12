@@ -1196,6 +1196,25 @@ body.light-mode .contribution-content img {
     color: #fff;
 }
 
+
+/* 🎬 Video Section */
+.project-video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.video-demo {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 14px;
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.25);
+  transition: transform 0.3s ease;
+}
+
+.video-demo:hover {
+  transform: scale(1.02);
+}
 /* ========== Contact Section ========== */
 #contact {
     padding: 100px 0;
