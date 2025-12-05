@@ -51,11 +51,12 @@ function opentab(tabname) {
 
 // Typing effect for subtitle
 const subtitles = [
-    "Frontend Developer",
+    "Fullstack Developer",
     "Problem Solver",
-    "Tech Enthusiast",
+    "PHP & Laravel Devloper",
     "MERN Stack Developer",
-    "Competitive Programmer"
+    
+    
 ];
 
 let subtitleIndex = 0;
