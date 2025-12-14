@@ -53,8 +53,8 @@ function opentab(tabname) {
 const subtitles = [
     "Fullstack Developer",
     "Problem Solver",
-    "PHP & Laravel Devloper",
     "MERN Stack Developer",
+    "PHP and Mysql developer",
     
     
 ];
